@@ -14,7 +14,5 @@ public class MyFirstSeleniumScript {
         //open some website
         driver.get("http://google.com");
 
-
-
     }
 }
