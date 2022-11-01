@@ -17,7 +17,5 @@ public class BasicNavigation {
         Thread.sleep(3000);//for demo, wait 3 seconds
 
         driver.close();
-
-
     }
 }
